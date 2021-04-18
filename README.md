@@ -1,7 +1,7 @@
 > # Creative-Agency Website
 
 ```
-  License - GNU GENERAL PUBLIC LICENSE
+  License - MIT
   By - Abhyuday Tripathi
 ```
 
